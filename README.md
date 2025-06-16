@@ -18,7 +18,7 @@ The Dark Orchid Theme is a cohesive visual ecosystem built around the striking c
 
 ### Install by XPI
 > [!CAUTION]
-> This method is highly discouraged as it'll allow other non-trusted Extensions to be installed
+> This Method is highly discouraged as it'll allow other non-trusted Extensions to be installed.
 1. Download the [.xpi-File](./dark_orchid.xpi)
 2. Set `xpinstall.signatures.required` to `false` in `about:config`
 3. Go to Firefox Addons
