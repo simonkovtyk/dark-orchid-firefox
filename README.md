@@ -9,7 +9,10 @@ The Dark Orchid Theme is a cohesive visual ecosystem built around the striking c
 
 ## Usage
 ### Install by Mozilla Marketplace
-*Currently in Review by Mozilla*
+> [!TIP]
+> This Method is recommended. It is easy to install and update.<br/>Plus this Theme will be updated to the latest version everytime there.
+1. Visit [this Theme](https://addons.mozilla.org/en-US/firefox/addon/dark-orchid/) on Mozilla Marketplace
+2. Click on "Install Theme"
 
 ### Install by Firefox Color
 1. Install [Firefox Color](https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/)
